@@ -3,7 +3,25 @@ hubot-calculator
 
 Replacement for hubot's math.coffee script that uses http://mathjs.org/ instead of decommissioned Google calculator
 
-Usage
+## Installation
+
+### Update the files to include the hubot-calculator module:
+
+#### package.json
+    ...
+    "dependencies": {
+      ...
+      "hubot-calculator": ">= 0.1.0"
+      ...
+    },
+    ...
+
+#### external-scripts.json
+    [...,"hubot-calculator"]
+
+Run `npm install` to install hubot-calculator and dependencies.
+
+Commands
 -----
 ```
 hubot calculate <expression> - Calculate the given math expression.
