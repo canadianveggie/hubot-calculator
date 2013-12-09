@@ -20,6 +20,7 @@
   },
 
   "dependencies": {
+    "coffee-script": "~1.6",
     "mathjs": ">= 0.16.0"
   },
 
