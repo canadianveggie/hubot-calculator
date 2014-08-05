@@ -14,7 +14,7 @@
 # Author:
 #   canadianveggie
 
-mathjs = require("mathjs")()
+mathjs = require("mathjs")
 
 module.exports = (robot) ->
   robot.respond /(calc|calculate|calculator|convert|math|maths)( me)? (.*)/i, (msg) ->
