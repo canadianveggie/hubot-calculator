@@ -1,7 +1,7 @@
 {
   "name": "hubot-calculator",
   "description": "Hubot script for basic calculator functionality",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "Christopher Porter <chris@pulseenergy.com>",
   "license": "MIT",
 
@@ -21,7 +21,7 @@
 
   "dependencies": {
     "coffee-script": "~1.6",
-    "mathjs": ">= 0.16.0"
+    "mathjs": ">= 0.25.0"
   },
 
   "devDependencies": {
