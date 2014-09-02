@@ -1,3 +1,5 @@
+<strong>Now hosted at https://github.com/hubot-scripts/hubot-calculator</strong>
+
 hubot-calculator
 ================
 
